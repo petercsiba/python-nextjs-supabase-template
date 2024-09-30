@@ -1,0 +1,2 @@
+[pytest]
+python_paths = /Users/<your-user>/<pwd>/<this>/<template-dir>/
